@@ -8,3 +8,4 @@ git status -- to check the modifications
 
 git add <filenames> -- to add all <. or *>
 
+git commit -m <message>
