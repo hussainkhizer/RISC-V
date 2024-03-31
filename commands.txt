@@ -1,0 +1,10 @@
+git clone <link>
+cd <repo name>
+make changes to your file -- (add or create)
+cltr S (save) -- depends on editor
+
+
+git status -- to check the modifications
+
+git add <filenames> -- to add all <. or *>
+
