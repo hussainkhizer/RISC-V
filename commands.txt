@@ -9,3 +9,21 @@ git status -- to check the modifications
 git add <filenames> -- to add all <. or *>
 
 git commit -m <message>
+
+git push
+
+-------------------
+to create a new branch from existing branch
+------------------------------------
+
+git checkout -b <branch name> -- argument b is used only when a new branch is created
+
+git checkout <branch name> -- to switch to an exisitng branch (its similar cd in linux)
+
+git status -- to check the modifications
+
+git add <filenames> -- to add all <. or *>
+
+git commit -m <message>
+
+git push -u origin <branch name> -- to push new branch to remote
